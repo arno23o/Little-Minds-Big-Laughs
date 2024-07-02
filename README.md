@@ -6,8 +6,8 @@ Humor detection is a challenging task for large language models (LLMs) due to th
 
 
 The Final Research Paper for the Little Minds, Big Laughs Project:
-- [Preview](finalreport.png)
-- [Download PDF](finalreport.pdf)
+- [PNG](finalreport.png)
+- [PDF](finalreport.pdf)
 
 New Yorker Cartoon Work
 - [Google Colab Notebook for New Yorker Cartoon Work](https://colab.research.google.com/drive/175xVgdjVGI1CdpzuPp3mp9GJNWhQ2tWM?usp=sharing)
