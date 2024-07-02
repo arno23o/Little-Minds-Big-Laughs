@@ -10,7 +10,9 @@ The Final Research Paper for the Little Minds, Big Laughs Project:
   [Download PDF](INFO 4940  Final Report_ Little Minds Big Laughs, Supercharging Small LLMs for Humor Detection.pdf)
 
 New Yorker Cartoon Work
+
   [Google Colab Notebook for New Yorker Cartoon Work](https://colab.research.google.com/drive/175xVgdjVGI1CdpzuPp3mp9GJNWhQ2tWM?usp=sharing)
+  
   [IPYNB File](New_Yorker_Cartoon_Context.ipynb)
 
 
